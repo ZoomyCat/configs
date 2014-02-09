@@ -1,0 +1,8 @@
+[Basic Settings]
+Start Nepomuk=false
+
+[Service-nepomukfileindexer]
+autostart=true
+
+[main Settings]
+Maximum memory=50
