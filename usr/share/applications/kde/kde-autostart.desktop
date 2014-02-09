@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Kde Autostart Services
+Comment=configure KDE autostart
+Exec=kcmshell4 autostart
+Icon=preferences-system
+Path=
+Categories=XFCE;GTK;Settings;DesktopSettings;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
+Terminal=false
+StartupNotify=false
