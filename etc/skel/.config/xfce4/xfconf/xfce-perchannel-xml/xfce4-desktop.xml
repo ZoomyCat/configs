@@ -8,13 +8,25 @@
         <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/Violet.jpg"/>
         <property name="last-single-image" type="string" value="/usr/share/backgrounds/xfce/Violet.jpg"/>
       </property>
+      <property name="monitorLVDS1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/firework.jpg"/>
+          <property name="backdrop-cycle-enable" type="bool" value="true"/>
+          <property name="backdrop-cycle-period" type="int" value="3"/>
+          <property name="backdrop-cycle-random-order" type="bool" value="true"/>
+        </property>
+      </property>
     </property>
   </property>
   <property name="desktop-icons" type="empty">
     <property name="style" type="int" value="2"/>
     <property name="file-icons" type="empty">
-      <property name="show-removable" type="bool" value="true"/>
+      <property name="show-removable" type="bool" value="false"/>
     </property>
     <property name="icon-size" type="uint" value="32"/>
+  </property>
+  <property name="windowlist-menu" type="empty">
+    <property name="show-submenus" type="bool" value="true"/>
+    <property name="show-add-remove-workspaces" type="bool" value="true"/>
   </property>
 </channel>

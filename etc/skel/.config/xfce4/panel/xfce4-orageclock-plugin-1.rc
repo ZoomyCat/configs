@@ -4,8 +4,8 @@ bg_set=false
 timezone=
 width_set=false
 height_set=false
-data0=%X
+data0=%c
 font0=
-tooltip=%A %d %B %Y/%V
+tooltip=%A %B %dth. %V week of %Y
 hib_timing=false
 
