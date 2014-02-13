@@ -5,10 +5,13 @@
     <property name="FailsafeSessionName" type="string" value="false"/>
     <property name="SessionName" type="string" value="Default"/>
     <property name="SaveOnExit" type="bool" value="false"/>
+    <property name="AutoSave" type="bool" value="false"/>
     <property name="PromptOnLogout" type="bool" value="false"/>
   </property>
   <property name="sessions" type="empty">
-    <property name="Failsafe" type="empty">
+    <property name="Failsafe" type="array">
+      <value type="string" value="xfwm4"/>
+      <value type="string" value="--replace"/>
       <property name="IsFailsafe" type="bool" value="true"/>
       <property name="Count" type="int" value="7"/>
       <property name="Client0_Command" type="array">
