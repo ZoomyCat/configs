@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Kwin Settings
+Comment=
+Exec=kcmshell4 kwincompositing desktop kwinscreenedges kwindecoration cursortheme colors desktoppath kwintabbox kwinoptions kwinrules kwinscripts
+Icon=preferences-desktop
+Path=
+Categories=XFCE;GTK;Settings;DesktopSettings;X-XFCE-SettingsDialog;X-XFCE-PersonalSettings;
+Terminal=false
+StartupNotify=false
+
