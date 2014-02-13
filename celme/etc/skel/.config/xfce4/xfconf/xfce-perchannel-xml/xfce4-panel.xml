@@ -13,6 +13,10 @@
         <value type="int" value="4"/>
         <value type="int" value="7"/>
         <value type="int" value="15"/>
+<<<<<<< HEAD
+=======
+        <value type="int" value="10"/>
+>>>>>>> 8bf8892f40f455433b1c812c4c57ed4d8e76d8b1
         <value type="int" value="1"/>
         <value type="int" value="5"/>
         <value type="int" value="6"/>

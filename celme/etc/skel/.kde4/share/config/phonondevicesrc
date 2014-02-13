@@ -1,0 +1,192 @@
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:05.0/sound/card0/pcmC0D0c:capture]
+cardName=Intel 82801AA-ICH (Intel 82801AA-ICH)
+deleted=true
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-4
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:05.0/sound/card0/pcmC0D0p:playback]
+cardName=Intel 82801AA-ICH (Intel 82801AA-ICH)
+deleted=true
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-1
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:05.0/sound/card0/pcmC0D1c:capture]
+cardName=Intel 82801AA-ICH (Intel 82801AA-ICH - MIC ADC)
+deleted=true
+deviceNumber=1
+hotpluggable=false
+iconName=audio-card
+index=-5
+initialPreference=35
+isAdvanced=true
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D0c:capture]
+cardName=HDA Intel PCH (ALC269VB Analog)
+deleted=false
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-16
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D0p:playback]
+cardName=HDA Intel PCH (ALC269VB Analog)
+deleted=false
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-10
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D3p:playback]
+cardName=HDA Intel PCH (HDMI 0)
+deleted=false
+deviceNumber=3
+hotpluggable=false
+iconName=audio-card
+index=-11
+initialPreference=33
+isAdvanced=true
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D7p:playback]
+cardName=HDA Intel PCH (HDMI 1)
+deleted=false
+deviceNumber=7
+hotpluggable=false
+iconName=audio-card
+index=-14
+initialPreference=29
+isAdvanced=true
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D8p:playback]
+cardName=HDA Intel PCH (HDMI 2)
+deleted=false
+deviceNumber=8
+hotpluggable=false
+iconName=audio-card
+index=-15
+initialPreference=28
+isAdvanced=true
+
+[AudioDevice_Chromium OS Audio Server_capture]
+cardName=Chromium OS Audio Server
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-18
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_Chromium OS Audio Server_playback]
+cardName=Chromium OS Audio Server
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-13
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_Default ALSA Output (currently Chromium OS Audio Server)_capture]
+cardName=Default ALSA Output (currently Chromium OS Audio Server)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-17
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_Default ALSA Output (currently Chromium OS Audio Server)_playback]
+cardName=Default ALSA Output (currently Chromium OS Audio Server)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-12
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_Default ALSA Output (currently PulseAudio Sound Server)_capture]
+cardName=Default ALSA Output (currently PulseAudio Sound Server)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-8
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_Default ALSA Output (currently PulseAudio Sound Server)_playback]
+cardName=Default ALSA Output (currently PulseAudio Sound Server)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-3
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_Intel 82801AA-ICH, Intel 82801AA-ICH\nDefault Audio Device_capture]
+cardName=Intel 82801AA-ICH, Intel 82801AA-ICH (Default Audio Device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-7
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_Intel 82801AA-ICH, Intel 82801AA-ICH\nDefault Audio Device_playback]
+cardName=Intel 82801AA-ICH, Intel 82801AA-ICH (Default Audio Device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-9
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_PulseAudio Sound Server_capture]
+cardName=PulseAudio Sound Server
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-6
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_PulseAudio Sound Server_playback]
+cardName=PulseAudio Sound Server
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-2
+initialPreference=30
+isAdvanced=false
+
+[Globals]
+nextIndex=21
+
+[VideoDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1a.0/usb1/1-1/1-1.3/1-1.3:1.0/video4linux/video0]
+cardName=HD WebCam
+deleted=false
+deviceNumber=-1
+hotpluggable=true
+iconName=camera-web
+index=-19
+initialPreference=50
+isAdvanced=false

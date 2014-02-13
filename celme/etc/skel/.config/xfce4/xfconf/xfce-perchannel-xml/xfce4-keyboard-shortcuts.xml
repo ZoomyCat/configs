@@ -29,7 +29,11 @@
       <property name="XF86WWW" type="string" value="exo-open --launch WebBrowser"/>
       <property name="&lt;Super&gt;p" type="string" value="xfce4-display-settings --minimal"/>
       <property name="override" type="bool" value="true"/>
+<<<<<<< HEAD
       <property name="&lt;Alt&gt;F2" type="string" value="xfce4-appfinder --collapsed"/>
+=======
+      <property name="Overlay1_Enable" type="string" value="dmenu_run"/>
+>>>>>>> 8bf8892f40f455433b1c812c4c57ed4d8e76d8b1
     </property>
   </property>
   <property name="xfwm4" type="empty">
