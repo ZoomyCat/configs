@@ -10,7 +10,6 @@
       <property name="position-locked" type="bool" value="true"/>
       <property name="size" type="uint" value="30"/>
       <property name="plugin-ids" type="array">
-        <value type="int" value="4"/>
         <value type="int" value="10"/>
         <value type="int" value="7"/>
         <value type="int" value="15"/>
@@ -69,10 +68,6 @@
     </property>
     <property name="plugin-1" type="string" value="xfce4-orageclock-plugin"/>
     <property name="plugin-5" type="string" value="xfce4-dict-plugin"/>
-    <property name="plugin-4" type="string" value="applicationsmenu">
-      <property name="show-button-title" type="bool" value="false"/>
-      <property name="show-tooltips" type="bool" value="true"/>
-    </property>
     <property name="plugin-7" type="string" value="tasklist"/>
     <property name="plugin-3" type="string" value="xfce4-brightness-plugin"/>
     <property name="plugin-9" type="string" value="cpugraph"/>

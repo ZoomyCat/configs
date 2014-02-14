@@ -29,7 +29,7 @@ frame_extra=
 
 #b Don't link the launcher with its window
 #{If you chose to mix launcher and applications, this option will deactivate this behaviour for this launcher only. It can be useful for instance for a launcher that launches a script in a terminal, but you don't want it to steal the terminal's icon from the taskbar.} 
-prevent inhibate=true
+prevent inhibate=false
 
 #K[Default] Class of the program:
 #{The only reason you may want to modify this parameter is if you made this launcher by hands. If you dropped it into the dock from the menu, it is nearly sure that you shouldn't touch it. It defines the class of the program, which is useful to link the application with its launcher.}
@@ -43,8 +43,8 @@ Terminal=false
 ShowOnViewport=0
 
 #f[0;100] Order you want for this launcher among the others:
-Order=16.1875
+Order=9.375
 
 Icon Type=0
 Type=Application
-Origin=/usr/share/applications/Thunar.desktop
+Origin=/usr/share/applications/thunar-settings.desktop
