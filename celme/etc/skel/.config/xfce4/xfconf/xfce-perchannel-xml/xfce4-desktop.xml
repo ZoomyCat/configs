@@ -10,7 +10,7 @@
       </property>
       <property name="monitorLVDS1" type="empty">
         <property name="workspace0" type="empty">
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/Valo_1.jpg"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/hippeastrum.jpg"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
           <property name="backdrop-cycle-period" type="int" value="3"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
